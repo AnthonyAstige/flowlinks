@@ -3,7 +3,7 @@
 
 Package.describe({
   summary: 'FlowRouter link helper method(s)',
-  version: '0.0.1',
+  version: '0.0.2',
   name:'anthonyastige:flowlinks',
   git:'git@github.com:AnthonyAstige/flowlinks.git'
 });
